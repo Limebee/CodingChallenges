@@ -2,4 +2,4 @@
 This repository contains coding challenges from Codewars I've done.
 
 # Preview
-<img src="" alt="codewars">
+<img src="code-wars.png" alt="codewars">
